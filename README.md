@@ -13,3 +13,4 @@ The methodology sources are as follows:
 
 You can view a working version of this script [here](https://code.earthengine.google.com/e33e95c9ae0a884e6db3a7602f1b8f2e).
 
+![User Interface](https://github.com/britnaybeaudry/britnaybeaudry.github.io/blob/master/assets/img/portfolio/SST_GEE.jpg)
