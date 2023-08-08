@@ -8,8 +8,8 @@ Sea Surface Temperature:
 * GCOM-C/SGLI L3 Sea Surface Temperature (V3)
 
 The methodology sources are as follows:
-* Anomaly calculation: https://developers.google.com/earth-engine/tutorials/community/anomalies-analysis-smo-and-pre
-* Coral Bleaching Threshold and Heat Stress: https://coralreefwatch.noaa.gov/satellite/education/tutorial/crw22_bleachingthreshold.php 
+* Anomaly calculation: [NASA GSFC Anomalies Analysis of Soil Moisture and Precipitation Over a River Basin](https://developers.google.com/earth-engine/tutorials/community/anomalies-analysis-smo-and-pre)
+* Coral Bleaching Threshold and Heat Stress: [NOAA Coral Reef Watch Bleaching Threshold](https://coralreefwatch.noaa.gov/satellite/education/tutorial/crw22_bleachingthreshold.php)
 
 You can view a working version of this script [here](https://code.earthengine.google.com/e33e95c9ae0a884e6db3a7602f1b8f2e).
 
